@@ -1,0 +1,9 @@
+version: '1.2'
+timestamp: 1681215076
+count: 1
+index:
+  antoinequarroz:
+    storage_key: antoinequarroz
+    storage_timestamp: 1681215076
+    key: antoinequarroz
+    email: antoine.quarroz@hevs.ch

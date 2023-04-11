@@ -1,0 +1,18 @@
+name: HEdS
+slug: heds
+type: theme
+version: 0.0.1
+description: "Thème grav pour la HEdS"
+icon: empire
+author:
+  name: Antoine Quarroz
+  email: antoine.quarroz@hevs.ch
+  url: https://antoinequarroz.ch
+homepage: https://github.com/getgrav/grav-theme-antimatter
+demo: https://demo.getgrav.org/blog-skeleton
+keywords: antimatter, theme, core, modern, fast, responsive, html5, css3
+bugs: https://github.com/getgrav/grav-theme-antimatter/issues
+license: MIT
+
+dependencies:
+  - { name: grav, version: '>=1.6.0' }
