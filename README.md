@@ -154,5 +154,3 @@ To run phpstan tests, you should run:
 * `composer phpstan` for global tests
 * `composer phpstan-framework` for more strict tests
 * `composer phpstan-plugins` to test all installed plugins
-# simulationTools
-# simulationTools
